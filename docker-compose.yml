@@ -9,7 +9,7 @@ services:
       ports:
         - 8080:80
       volumes:
-        - ./Clase 1:/var/www/html
+        - ./Clase 2:/var/www/html
       networks:
         - network
 
